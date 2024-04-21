@@ -27,7 +27,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   max-width: 600px;
-  margin: 10px;
+  margin: auto;
   color: #232e3a;
 }
 </style>
